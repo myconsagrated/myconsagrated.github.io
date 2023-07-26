@@ -26,4 +26,8 @@ Ah, ideia de texto/video essay: como é entrar num game Scene
 Preciso admitir, tem fotos da viagem para europa em 2006 que nao sei se fui em quem tirou ou se foi o marido da minha tia na epoca. E convenientemente decidi ignorar isso; mas deve da para saber vendo qual foi a camera que tirou a foto, o flicker deve ter isso.
 
 
-nossa a gente andou horrores na viagem de paris para ver o arco do triunfo. Eu editei DEMAIS essa foto
+nossa a gente andou horrores na viagem de paris para ver o arco do triunfo. Eu editei DEMAIS essa foto.
+
+O fato de eu estar completamente no sistema de uma empresa que fodeu o consumidor de games e bullied um pais a aceitar um monopolio é meio sinistro. Acho que preciso de um linux raiz nos proximos 10 anos
+
+os cara tem github, vou usar por que é o que conheco, mas vou criar outro repo em outro remote em algum momento
