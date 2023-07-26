@@ -31,3 +31,8 @@ nossa a gente andou horrores na viagem de paris para ver o arco do triunfo. Eu e
 O fato de eu estar completamente no sistema de uma empresa que fodeu o consumidor de games e bullied um pais a aceitar um monopolio é meio sinistro. Acho que preciso de um linux raiz nos proximos 10 anos
 
 os cara tem github, vou usar por que é o que conheco, mas vou criar outro repo em outro remote em algum momento
+
+
+Li isso e achei legal
+
+https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow
