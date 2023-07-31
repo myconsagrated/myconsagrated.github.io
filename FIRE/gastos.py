@@ -55,3 +55,21 @@ def plot_actual_gastos(df):
 
     st.altair_chart(chart, use_container_width=True)
     st.write(df)
+
+
+def get_custo_moeda(cost_df: pd.DataFrame, config: dict):
+
+    """retorna receita mensal na moeda escolhida"""
+    cost_eur = cost_df.loc[cost_df["MOEDA"] == "EUR"]["VALOR"].sum() * (-1)
+    cost_brl = cost_df.loc[cost_df["MOEDA"] == "BRL"]["VALOR"].sum() * (-1)
+    cost_target = 0
+    
+    if config["moeda_target"] == "EUR":
+        cost_target += cost_brl/config["EUR_to_BRL"]
+        cost_target += cost_eur
+
+    elif config["moeda_target"] == "BRL":
+        cost_target += cost_eur*config["EUR_to_BRL"]
+        cost_target += cost_brl
+
+    return cost_target

@@ -2,16 +2,41 @@
 
 ## a ideia é um dashboard simples, com as principais metricas e graficos para um planejamento financeiro
 
-
 ## Proposito:
 
 ## O capitalismo me ensinou a me programar assim. Acho que seria util para as pessoas que, sei la por que motivo
 ## Se organizariam bem com essa ferramenta
 
-
 ## Filosofia
 
 ## Cozinhando para os amigos. Não sou chef de estrela michelin mas sei programar um bom ovo mexido
+
+
+## No momento discutindo a visão final do produto
+
+### Base timeline/cashflow
+
+### Metricas
+    # Dinheiro por conta_tipo por periodo
+
+    # Dinheiro movimentado por conta por periodo
+        # Compras onde e quando
+        # 
+
+### Base de realizado vs planejado
+
+### Metricas
+    # Receitas
+        # Salario
+        # Investimento
+        # Rendas Outras
+
+
+
+### Granularidades
+
+
+
 
 import streamlit as st
 import pandas as pd
@@ -22,52 +47,7 @@ import numpy as np
 import altair as alt
 
 from receita import get_receita_anualizada, get_receita_moeda
-from gastos import clean_actual_gastos, plot_actual_gastos
-
-@st.cache_data
-def create_timeline_df(dict_configs):
-
-    initial_year = dict_configs['ano_inicio']
-    initial_month = dict_configs['mes_inicio']
-
-    final_year = dict_configs['ano_final']
-    final_month = dict_configs['mes_final']
-
-    start_date = datetime.strptime(f"{initial_year}-{initial_month}-01", "%Y-%m-%d")
-    final_date = datetime.strptime(f"{final_year}-{final_month}-01", "%Y-%m-%d")
-
-    fut_dates = np.arange(start_date, final_date, dtype="datetime64[M]")
-
-    datas = pd.DataFrame(fut_dates, columns=["DATAS"])
-    datas['ANO'] = datas['DATAS'].dt.year
-    datas['MES'] = datas['DATAS'].dt.month
-
-    return datas
-
-
-
-
-
-def get_configs():
-    yaml_dict = yaml.safe_load(Path("data/config.yaml").read_text())
-    # return df.set_index("settings")
-    return yaml_dict
-
-# @st.cache_data
-def get_income_data():
-    df = pd.read_csv("./data/RECEITA_HOLANDA.csv")
-    return df.set_index("NOME_RECEITA")
-
-# @st.cache_data
-def get_costs_data():
-    df = pd.read_csv("./data/GASTOS_HOLANDA.csv")
-    return df.set_index("NOME_CUSTO")
-
-def get_actual_gastos(dict_cat_gastos):
-    df = pd.read_csv("./data/gastos/ExportGastos.csv")
-    return clean_actual_gastos(df, dict_cat_gastos)
-    
-
+from gastos import clean_actual_gastos, plot_actual_gastos    
 
 def get_custo_moeda(cost_df: pd.DataFrame, config: dict):
 
