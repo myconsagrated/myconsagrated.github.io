@@ -53,3 +53,8 @@ Tipo, eu não me sentiria mal ou com vontade de mudar se nao fosse Benes.
 Nao quero que ela sofra nas minhas auto sabotagens, ta ligado? As coisas que eu faço tem consequencia muito direta na vida dela. Então preciso melhorar nisso.
 
 Vamos ver como eu vou fazer isso. Talvez preencher meus timesheets, mandar as msgs que preciso mandar e minimamente planejar minha vida para semana que vem...
+
+
+also, troquei uma ideia com a pagina sebastiao salgados e a treta do perrengue chique
+
+seria uma video essay interessante. Quanto esses caras devem tirar de grana? Perrengue chique vs sebastiao ?
