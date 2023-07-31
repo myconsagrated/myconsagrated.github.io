@@ -14,8 +14,8 @@ from pathlib import Path
 import numpy as np
 import altair as alt
 
-from receita import get_receita_anualizada, get_receita_moeda
-from gastos import clean_actual_gastos, plot_actual_gastos
+from firepy.receita import get_receita_anualizada, get_receita_moeda
+from firepy.gastos import clean_actual_gastos, plot_actual_gastos
 
 
 def load_data():
@@ -167,7 +167,7 @@ def read_rico_data():
     |   c. Ações
     |   d. Renda Fixa (CDBs pq nao sei outro nome e vai ficar confuso se for renda fixa)
     |   e. Fundos
-    |   f. Proventos
+    |   f. Proventos (TODO)
     """
 
     # Como its best to have 1 goHorse 
@@ -186,8 +186,15 @@ def read_rico_data():
     fii_df = clean_fii(df)
     acoes_df = clean_acoes(df)
     cdb_df = clean_CDBS(df) 
+    fundo_df = clean_fundos_inv(df)
 
-    pass
+    return pd.concat([
+        tesouro_df,
+        fii_df,
+        acoes_df,
+        cdb_df,
+        fundo_df,
+    ])
 
 def clean_fii(df: pd.DataFrame) -> pd.DataFrame:
     
@@ -202,7 +209,7 @@ def clean_fii(df: pd.DataFrame) -> pd.DataFrame:
 def clean_acoes(df: pd.DataFrame) -> pd.DataFrame:
     
     aux_df = df.iloc[32:36, 0:7]
-    aux_df.columns = ["NOME_ATIVO", "POSICAO", "PCT_ALOCACAO", "RENTABILIDADE_COM_PROVENTOS", "PRECO_MEDIO", "ULTIMA_COTACAO", "QTD"]
+    aux_df.columns = ["NOME_ATIVO", "POSICAO", "PCT_ALOCACAO", "RENTABILIDADE_PCT", "PRECO_MEDIO", "ULTIMA_COTACAO", "QTD"]
     aux_df['CAT_ATIVO'] = "ACOES"
     aux_df['TIPO_RENDA'] = "VARIAVEL"
 
@@ -257,5 +264,23 @@ def clean_CDBS(df: pd.DataFrame) -> pd.DataFrame:
     return clean_renda_fixa(df, coord_dict)
 
 def clean_fundos_inv(df: pd.DataFrame):
+
+    coord_dict = {
+        "INTERNACIONAL": [72,75],
+        "INFLACAO": [77,78],
+        "RENDA_VARIAVEL": [80,81]
+    }
+
+    df_list = []
+
+    for k,v in coord_dict.items():
+        aux_df = df.iloc[v[0]:v[1], :].copy()
+        aux_df.columns = ["NOME_ATIVO", "POSICAO", "PCT_ALOCACAO", "RENTABILIDADE", "VALOR_APLICADO", "VALOR_LIQUIDO", "DATA_COTA"]
+        aux_df['CAT_ATIVO'] = "FUNDOS_INVESTIMENTO"
+        aux_df['TIPO_FUNDO'] = k
+        aux_df['TIPO_RENDA'] = "VARIAVEL"
+        df_list.append(aux_df)
+
+    return pd.concat(df_list)
 
     
