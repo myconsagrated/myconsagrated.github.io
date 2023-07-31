@@ -58,3 +58,5 @@ Vamos ver como eu vou fazer isso. Talvez preencher meus timesheets, mandar as ms
 also, troquei uma ideia com a pagina sebastiao salgados e a treta do perrengue chique
 
 seria uma video essay interessante. Quanto esses caras devem tirar de grana? Perrengue chique vs sebastiao ?
+
+talvez linkar o twitter seria interssante para ter pensamentos meio como bloco de notas e conversas
