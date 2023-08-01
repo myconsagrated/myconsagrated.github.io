@@ -1,38 +1,40 @@
 Fungos no meu Jargim Digital
 Fungos Digitais
 
-Ok, essa vai ser um texto um pouco diferente dos outros, mas acho que pode ser interessante.
+Ok, essa vai ser um texto um tanto diferente dos outros, mas acho que pode ser interessante.
 Faz MUITO tempo que curto psicodelicos. Acho que eu já falei sobre DMT com sócios do meu trabalho, ouvi infinitos podcasts, assisti vários documentários e video essays sobre o assunto e falo - com frequencia - na terapia disso. Sempre quis tentar.
 
-Não vou entrar muito no meu fascinio, se não acho que não consigo falar sobre o que eu quero falar, mas vou deixar algumas referencias que eu gosto sobre o tema[1]. Acho que é uma linguagem - ou temática, sei la, não sou linguista - que ressoa muito com minhas questões e ensinamentos espirituais.
+Não vou entrar muito no meu fascinio, se não acho que não consigo falar sobre o que eu quero falar, mas vou deixar algumas referencias que eu gosto sobre o tema[1]. Acho que é uma linguagem - ou temática, sei la, não sou linguista - que reverbera muito com minhas questões e ensinamentos espirituais que tive quando mais novo.
 
 Um dos vídeos que eu mais gostava na minha época crente era de um cara chamado Rob Bell, que, na época, era mais conhecido pelos seus videos do NOOMA[2]. Em um desses videos, ele compara Deus com musica. Para o Dani crente e membro do ministério de louvor, era uma poesia linda. A primeira video essay que me conquistou[3].
 
-"Quando você toca um instrumento afinado, você consegue fazer uma musica muito mais bonita" - ou algo assim, essa é a mensagem: Não resista a musica, toque com ela e faça algo bonito
+"Quando você toca um instrumento afinado, você consegue fazer uma musica muito mais bonita" - ou algo assim, essa é a mensagem: Não resista a musica, toque com ela e faça algo bonito. Pelo menos é a memoria que ficou, não vi o video de novo ainda.
 
-Ela surgiu de novo na minha mente enquanto falava com meu pai. O tema espiritualidade esta de plano de fundo da minha mente tem um tempo. Talvez como trilha sonora de fundo do meu subconsicente. E, como sempre que falo com meu pai esse tema está envolvido[4], faz sentido que ela tenha aparecido.
+O tema de estar afinado foi levantando no ultimo texto. Um grande amigo meu disse que era um texto afinado, como se eu tivesse achado minha voz. Foi um dos elogios que eu mais gostei de receber. Esse pensamento apareceu de novo numa conversa com meu pai. Dessa vez, mais ligado ao plano de espiritualidade (já que como sempre, esse tema surge com meu pai[4])
 
-Tenho refletido muito sobre a vida. De um jeito muito difuso, numa linguagem mais emocional e primitiva do que intelectual. Parece que ela é um grande carro que a gente ta amarrado. A gente pode até tentar ir contra o carro, mas vai doer, vamos capotar. Livre arbitrio serve para conseguir se manter em forma. Correr junto com a vida - verdade, destino, sei lá - e seguir as coisas que são importantes para viver bem é essencial. Melhor tocar uma musica bonita com o mundo do que ficar insistindo que seu screamo desafinado é a melhor coisa para tocar numa festa de gente que só curte pop.
+Tenho refletido muito sobre a vida. De um jeito muito difuso, numa linguagem mais emocional e primitiva do que intelectual. Acho que a analogia que consegui chegar é que a vida é um grande carro que no qual a gente tá amarrado. Como se ela fosse um cavalo indomável nos arrastando para onde ela quiser. A gente pode até tentar ir contra o carro, mas apenas vamos capotar e tornar a viagem mais inconveniente sem a menor mudança no destino final.
 
-Benes[5] apontou bem que eu não sei lidar bem com ser responsável por mim mesmo[6] e o tema da morte é um tema que real me deixa engatilhado[7]. Talvez pelo medo de morrer agora. Por que tem tanta coisa que eu ainda quero fazer. Talvez por que eu ainda não superei o trauma de que se pá, tudo seja só isso mesmo[8]. Eu preciso me prender a algo. E acho que cogumelos entregaram muito do que eu esperava necesse sentido.
+Livre arbitrio talvez não sirva muito para conseguir mudar o destino, mas pelo menos o ele ajuda no trajeto. Cuidar do corpo para que possamos manter o ritmo e cuidar da cabeça para conseguir acertar a direção "correta" da vida - verdade, destino, Deus, sei lá - é da maior importância. Afinal, se em nossa vida nós somos membros de uma orquestra, melhor afinar meu instrumento e seguir o maestro do que ficar insistindo no meu screamo desafinado que ninguém quer ouvir. Preciso fazer escolhas melhores e mais responsáveis[5]
 
-Acho que descrever a sensação eu vou deixar para Benes fazer[9]. Acho que ela descreve bem. Mas de fato foi um momento lindo, que tudo fazia sentido. Óculos emocionais. Tudo era lindo, eu queria compartilhar o Amor com o mundo por que nós somos o mundo.
+Benes[5] comenta com frequência - e com razão - que eu não sei lidar bem com ser responsável por mim mesmo[6] e quando eu preciso resolver minha vida - ou lidar com a impermanencia e inevitável morte - eu fico real engatilhado[7]. Talvez pelo medo de morrer agora. Por que tem tanta coisa que eu ainda quero fazer. Talvez por que eu ainda não superei o trauma de que se pá, tudo seja só isso mesmo[8]. Eu preciso me prender a algo. Sentir que existe algo maior, sabe?
 
-Foi um ótimo escapismo. Mas como o viciado em soluções simples que eu sou, todo escapismo é perigoso. Imediatamente queria voltar. Queria estar sentindo esse sentimento espiritual, transcendental, a sintonia da orquestra da natureza. Queria voltar a estar com a mente afinada.
+E acho que cogumelos entregaram muito do que eu esperava necesse sentido. Provamos muito sem planejamento graças a uma visita de uma amiga de Benes. Era tão espiritual como eu imaginava. Mas para descrever a sensação eu vou deixar para Benes fazer[9]. Acho que ela faz isso melhor bem. Mas resumindo: foi um momento lindo, que tudo fazia sentido. Óculos emocionais. Tudo era lindo, eu queria compartilhar o Amor com o mundo por que nós somos o mundo.
 
-Mas assim como eu não posso tomar um remedio e ficar com o corpo saudavel, minhas rotinas também vão demorar. Preciso pensar em recompensas mais longo prazos. Transformar o futuro tão intangível em algo que possa ser regado e cuidado para um dia ser vivido e vivido bem.
+Aquela noite iluminada no parque foi um ótimo escapismo. Mas como o viciado em soluções simples[10] que eu sou, todo escapismo é perigoso. Imediatamente após a brisa acabar eu queria voltar. Queria comer mais outra porção. Queria estar sentindo esse sentimento espiritual, transcendental, a sintonia da orquestra da natureza. Queria voltar a estar com a mente afinada.[11]
 
-Não consigo fazer exercicio de manhã como Benes, mas já estou comendo coisas verdes e não fiquei deitado debaixo da escrivaninha do trabalho. Não fiquei tão miope emocionalmente e comecei a me estruturar e me organizar.
+Mas assim como eu não posso pular etapar para perder peso de um jeito saudável, não vou conseguir mudar minha mente do dia pra noite por causa de um fungo[12]. Mudanças estruturais e criar uma rotina vai demorar. Será um projeto longo. Mas que precisa começar com um passo de cada vez e com um ótimo plano a ser seguido.Eu ainda não consigo fazer exercicio de manhã como Benes, mas já estou comendo coisas verdes e não fiquei deitado debaixo da escrivaninha do trabalho hoje. A lente do cogumelo passou, mas não por completo. Não estive tão miope emocionalmente esses dias e comecei a me estruturar e me organizar pensando no futuro.
 
-Talvez por que é só como eu sei fazer, estou tratando tudo isso como um trabalho. Mas um trabalho divertido. Um projeto pessoal que não vai me deixar feliz do dia pra noite. Não vai me fazer ser profissional em Age of Empires em 3 dias. Não vai me fazer voltar a jogar bem basquete do dia para noite. Mas eu posso usar as ferramentas do trabalho para fazer algo que eu goste.
+Infelizmente, para fazer isso, meu cérebro só consegue pensar de um único jeito: Trabalho e um monte de burocracia idiota para sentir progresso[13]. Sei que não vou ser feliz do dia para noite. Sei que esse hobbie não vai me salvar. Mas é legal poder construir algo, mesmo que usando frameworks e ferramentas do diabo.
 
-Sempre falo que queria ter um trabalho manual. Mas infelizmente, só sei regar coisas digitais. Então estou fazendo um Jardim Digital[10], e todos são bem vindos para entrar assincronamente e conversar na minha varanda[11], quem sabe me ajudar com a minha planta de planejamento financeiro[12] e quem sabe, quem sabe um dia, eu finalmente plante a arvore que é o video game que gostaria de fazer, contando a historia que eu gostaria de contar.
+Sempre falo que queria ter um trabalho manual. Mas infelizmente, só sei regar e crescer coisas digitais. Então estou fazendo um Jardim Digital[14], e todos são bem vindos para entrar assincronamente e conversar na minha varanda[15], quem sabe me ajudar com a minha planta de planejamento financeiro[16] e quem sabe, quem sabe um dia, eu finalmente fique feliz com meu jardim. Eu tenha algo que eu tenha construido e goste do resultado.
 
-Enfim, assim como preciso arrumar as tarefas do meu trabalho, vou arrumar as tarefas da minha vida. Eu odeio o capitalismo, mas eu posso usar esse jogo ao meu favor e não só sofrer por ele. Então vamos usar uns KANBAN loco ou só codar coisas em modo POC e ver se vai ter ROI ou não e vai virar um MVP.
+Resumindo por que eu não sou coerente:
 
-Quero um Jardim bonito entao vou regar como posso.
+Assim como preciso arrumar as tarefas do meu trabalho, vou arrumar as tarefas da minha vida. É bem eficiente para o que é recompensado no sistema atual. Eu odeio o capitalismo, mas eu posso usar esse jogo ao meu favor e não só sofrer dentro dele. Então deixa eu abrir o primeiro pull request por que quero um Jardim bonito entao vou regar como posso.
 
-Beijos
+Beijos,
+
+MyConsagrated
 
 
 
@@ -45,12 +47,20 @@ Beijos
 
 
 [1] - Midnight gospel, colocar mais coisas depois, mas You Made It Weird, JRE e coisas do tipo
-[2] - Deixar referencias, Video na floresta com filho, e tudo mais
+[2] - Deixar referencias, Video na floresta com filho, e tudo mais. O que será que ele está fazendo hoje depois de ser afastado do circulo gospel?
 [3]
 [4] - E dessa vez parei de ser uma criança chata que só ignora os pais para comecei a ouvir com interesse por que eu defato me interesso e amo meu pai e falar com ele é um cheat code de me ver alguns anos pra frente
+
+[5] - Disse ele as 4 da manhã editando um texto por que se não ele não consegue dormir.
 [5] - Quanta paciencia de conviver com essa criança adulta na questão de lidar com a vida e a morte
-[6] - Já apontado por outras pessoas na minha vida, tks Giude, (Henrique) <3 (tem outros mas acho que a Giude sempre que me pegava numa crise de ansiedade b
-[7] - E estranhamente é importante para eu ser produtivo. Sei la, capitalismo? É como eu sei fazer as coisas e minha coceira está até me atacando agora
+[6] - Já apontado por outras pessoas na minha vida, tks Giude e Henrique <3 (tem outros mas acho que a Giude sempre que me pegava numa crise de ansiedade brutal) e até mesmo o bojack (meme café da manhã)
+[7] - E estranhamente é importante para eu ser produtivo. Sei la, capitalismo é uma tortura que te distrai de um outro trauma que você não quer processar? É como eu sei fazer as coisas... Minha coceira de ansiedade está até me atacando agora enquanto escrevo
 [8] - que não deixa de ser lindo
 
-[11] - nesse momentos, abra um issue no github ou mande algo no substack, o que for mais facil
+[10] - preguiçoso e só funciona por meio de prazer instantaneo
+[11] - realmente quero tentar microdose um dia e tentar dar uma documentada meio "cientifica" para ver se de fato me ajuda e ter dados e não sentimentos para comparar
+[12] - mas pode ser que ajude!
+[13] - yay, temos um github e uma vaga ideia de objetivos para essa POC, já já teremos até um deck em ppt com o planejamento estratégico de 5 anos do Jardim (spoiler, como todo bom deck de estratégia, não vai ter nada a ver com o que vai acontecer daqui 5 anos mas vai ser mega util para ter um norte em mente e chegar em algum lugar)
+
+[15] - nesse momento, abra um issue no github ou mande algo no substack, o que for mais facil
+[16] - eu odeio todos os agregadores de investimento então vou montar um caseiro e tentar deixar mega flexivel para o que funciona para mim, mas vai que funciona para você e você quer abrir um PR?
