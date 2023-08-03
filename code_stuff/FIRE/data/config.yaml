@@ -1,0 +1,71 @@
+configs:
+  ano_inicio: 2023
+  mes_inicio: 8
+  ano_final: 2024
+  mes_final: 12
+  moeda_target: BRL
+  EUR_to_BRL: 5.22
+  anos_trabalho_dani: 80
+  anos_trabalho_gabi: 80
+
+
+# lista de nome de lojas e seus respectivos gastos
+categoria_gastos:
+  groceries:
+  - "Albert Heijn"
+  - "SIMON MEIJSSEN"
+  - "Restaurant Pastis"
+  - "EGG HOUSE F HALSSTR BV"
+  - "AH"
+  - "Jumbo"
+  - "ETOS"
+  - "VAN HILTEN"
+
+  house:
+  - "Dille en Kamille"
+  - "IKEA"
+  - "Coolblue"
+  - "Bever"
+  - "ZARA HOME"
+  - 'Emily Heinhuis'
+  - "HEMA"
+  - "O&O"
+
+  roles:
+  - "Pathe"
+  - "TERPS ARMY"
+  - "Ku Kitchen & Bar"
+  - "Fabel Friet"
+  - "Empanadas"
+  - "McDonald"
+  - "Museumkaart"
+  - "Coffee Distric"
+  - "dambrownie"
+  - "Leila"
+  - "MR. BRASA"
+  - "Greenwoods"
+
+  transporte:
+  - "NLOV"
+
+  gatos:
+  - "Pets"
+  - "Hart van Zuid"
+
+  misc:
+  - "Ministerie van Justitie en Veiligheid"
+  - "Kamera"
+  - "Marktplaats"
+  - "Ekoplaza"
+  - "AMZN"
+  - "AMAZON"
+  - "TEMPORARY HOLD"
+  - "Online Payments Foundation"
+
+  custos_fixos:
+  - "bunq"
+  - "KPN"
+
+  entradas:
+  - "THE BOSTON CONSULTING GROUP B.V."
+
