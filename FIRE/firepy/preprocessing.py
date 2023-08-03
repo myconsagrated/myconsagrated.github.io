@@ -57,7 +57,7 @@ def get_configs():
 
 # @st.cache_data
 def get_income_data():
-    df = pd.read_csv("./data/RECEITA_HOLANDA.csv")
+    df = pd.read_csv("./data/raw/RECEITA_HOLANDA.csv")
     return df.set_index("NOME_RECEITA")
 
 # @st.cache_data
@@ -66,7 +66,7 @@ def get_costs_data():
     return df.set_index("NOME_CUSTO")
 
 def get_actual_gastos(dict_cat_gastos):
-    df = pd.read_csv("./data/gastos/ExportGastos.csv")
+    df = pd.read_csv("./data/raw/vendors/bunq/ExportGastos.csv")
     return clean_actual_gastos(df, dict_cat_gastos)
 
 
@@ -178,9 +178,8 @@ def read_rico_data():
     # Vou só anonimizar ela aqui e forcar um to numeric na planilha que é ssó string...1
 
     # Ajustar path depois de config
-    df = pd.read_excel("../../data/vendors/rico_20230731.xlsx")
-    rico_data_columns = ["NOME_ATIVO", "POSICAO", "PCT_ALOCACAO", "TOTAL_APLICADO", "QTD", "DISPONIVEL", "VENCIMENTO"]
-
+    df = pd.read_excel("../../data/vendors/Rico/rico_20230731.xlsx")
+    
     # a. tesouro direto:
     tesouro_df = clean_tesouro_direto(df)
     fii_df = clean_fii(df)

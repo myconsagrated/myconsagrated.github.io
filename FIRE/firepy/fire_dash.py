@@ -46,8 +46,9 @@ from pathlib import Path
 import numpy as np
 import altair as alt
 
-from receita import get_receita_anualizada, get_receita_moeda
-from gastos import clean_actual_gastos, plot_actual_gastos    
+from firepy.receita import get_receita_anualizada, get_receita_moeda
+from firepy.gastos import clean_actual_gastos, plot_actual_gastos    
+from firepy.preprocessing import *
 
 def get_custo_moeda(cost_df: pd.DataFrame, config: dict):
 
