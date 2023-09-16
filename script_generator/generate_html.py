@@ -91,7 +91,7 @@ def generate_sidebar():
     """
     return """
     <!-- Sidebar -->
-    <div id="sidebar">
+    <div id="sidebar" class="inactive">
         <div class="inner">
 
         <!-- Menu -->
