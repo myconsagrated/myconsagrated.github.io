@@ -1,6 +1,5 @@
 */.venv*
 
-*.jpg
 */data/*
 *.egg-info
 *.pyc

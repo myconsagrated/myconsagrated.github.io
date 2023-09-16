@@ -70,6 +70,8 @@ def return_main_content(file_post_path):
 
     html += html_file
 
+    html += """</div></div>"""
+
     return html
 
 def return_main_header():
